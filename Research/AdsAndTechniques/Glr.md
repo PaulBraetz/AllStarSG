@@ -1,0 +1,3 @@
+# GLR
+
+- https://en.wikipedia.org/wiki/GLR_parser
