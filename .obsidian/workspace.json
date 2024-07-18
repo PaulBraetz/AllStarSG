@@ -29,8 +29,12 @@
             "id": "6f7416a0af5871be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Research/_TermsAndPointers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -160,10 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f7416a0af5871be",
+  "active": "79fd5da6a9836a10",
   "lastOpenFiles": [
-    "Research/Literature.md",
     "Research/_TermsAndPointers.md",
+    "Research/Literature.md",
     "2024-02-28.md",
     "2024-02-27.md",
     "Research/AdsAndTechniques/_AdsAndTechniques.md",
